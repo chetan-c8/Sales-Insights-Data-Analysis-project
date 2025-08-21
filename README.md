@@ -48,7 +48,7 @@ The analysis highlights **revenue growth, regional trends, and top-performing pr
 
 *(## 📊 Dashboard Preview  
 
-![Dashboard Preview](Dashboard preview.png)
+![Dashboard Preview](C:\Users\chetan\Downloads\pdf2png (1)\Assets)
 )*  
 
 ---
