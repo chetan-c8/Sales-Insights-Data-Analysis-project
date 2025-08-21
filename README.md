@@ -46,10 +46,6 @@ The analysis highlights **revenue growth, regional trends, and top-performing pr
 
 ![Dashboard Preview](file:///C:/Users/chetan/OneDrive/Desktop/sales%20insights%20project/Sales%20Insight%20Visual%20Report.pdf)  
 
-*(## 📊 Dashboard Preview  
-
-![Dashboard Preview](C:\Users\chetan\Downloads\pdf2png (1)\Assets)
-)*  
 
 ---
 
