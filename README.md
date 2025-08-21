@@ -46,6 +46,7 @@ The analysis highlights **revenue growth, regional trends, and top-performing pr
 
 ![Dashboard Preview](Sales Insight Visual Report.pdf)  
 
+![Dashboard Screenshot]()
 
 ---
 
