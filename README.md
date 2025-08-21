@@ -44,7 +44,7 @@ The analysis highlights **revenue growth, regional trends, and top-performing pr
 
 ## 📊 Dashboard Preview  
 
-![Dashboard Preview](Sales Insight Visual Report.pdf)  
+![Dashboard Preview](https://github.com/chetan-c8/Sales-Insights-Data-Analysis-project/blob/070045f003c13e4ab747456e687520d488408af4/Dashboad%20preview.png) 
 
 ![Dashboard Screenshot]()
 
